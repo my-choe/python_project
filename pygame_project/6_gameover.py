@@ -95,7 +95,7 @@ start_ticks = pygame.time.get_ticks() #시작시간 정의
 # Mission Complete(성공)
 game_result = "Game Over"
 
-
+ 
 running = True 
 while running:
     dt = clock.tick(30)
